@@ -1,5 +1,5 @@
 
-![](https://github.com/enisgjini/Hyrje-ne-Shkenca-Kompjuterike-dhe-Programim/blob/main/Black%20Games%20Devices%20Landscape%20Banner%20(1).png)
+![alt text](https://github.com/enisgjini/Hyrje-ne-Shkenca-Kompjuterike-dhe-Programim/blob/main/Black%20Games%20Devices%20Landscape%20Banner%20(1).png)
 
 ## Qëllimi parësor i lëndës
 
